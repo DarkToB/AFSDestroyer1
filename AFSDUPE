@@ -1,7 +1,7 @@
 local Material = loadstring(game:HttpGet("https://raw.githubusercontent.com/Kinlei/MaterialLua/master/Module.lua"))()
 
 local X = Material.Load({
-    Title = "AFS rollback - UREK MAZINO KUMAKANTOT NG BAKLA.",
+    Title = "AFS rollback - vibess suck.",
     Style = 3,
     SizeX = 500,
     SizeY = 350,
@@ -64,9 +64,9 @@ local AE = Y.Button({
 })
 
 local AE2 = Y.Button({
-    Text = "Discord",
+    Text = "THE BOSS",
     Callback = function()
-        setclipboard("vibess")
+        setclipboard("vibess is gay")
     end
 })
 
